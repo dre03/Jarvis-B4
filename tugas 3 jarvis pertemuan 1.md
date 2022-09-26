@@ -1,0 +1,5 @@
+di hari pertama bootcamp kami belajar tentang materi dasar yaitu html,css dan github
+jadi html itu bukan bahasa pemprograman html adalah bahasa markup jadi kami belajar tentangt html 
+dilanjut dengan membahas tentang materi css,css adalah cascading style sheat css berfungsi mempercantik 
+halaman yang kita buat
+terkhir kita membahas LMS
