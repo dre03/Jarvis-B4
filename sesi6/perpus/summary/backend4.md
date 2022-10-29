@@ -1,0 +1,2 @@
+Pada petemuan ini saya belajar tentang materi Konfigurasi database pada laravel
+Pengertian migration, lalu Membuat migrations, membuat model dengan terminal, Mengenal apa itu eloquent dan Method eloquent
