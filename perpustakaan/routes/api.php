@@ -25,7 +25,8 @@ Route::get('/pustakawan', [PustakawanController::class, 'index']);
 Route::post('/pustakawan', [PustakawanController::class, 'store']);
 //get detail resource
 Route::get('/pustakawan/{id}', [PustakawanController::class, 'show']);
-
+// update pustakawan
+Route::put('/pustakawan/{id}', [PustakawanController::class, 'update']);
 //===================================//
 // Get all Resources
 Route::get('/books', [BookController::class, 'index']);
@@ -36,3 +37,7 @@ Route::post('/books', [BookController::class, 'store']);
 
 // all detail resources
 Route::get('/books/{id}', [BookController::class, 'show']);
+//Edit Resource
+Route::put('/books/{id}', [BookController::class, 'update']);
+// delete Resurce
+Route::delete('/books/{id}', [BookController::class, 'destroy']);
